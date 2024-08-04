@@ -87,7 +87,7 @@ const hero = () => {
               key={post.id}
               className={`bg-gray-800 text-white rounded-lg overflow-hidden shadow-lg ${
                 hoveredPostId === post.id
-                  ? 'bg-white text-gray-800 hover:bg-gray-800 hover:text-white'
+                  ? 'bg-white text-gray-790 hover:bg-gray-800 hover:text-white'
                   : 'bg-gray-800 text-white hover:bg-white hover:text-gray-800'
               }`}
               onMouseEnter={() => handlePostHover(post.id)}

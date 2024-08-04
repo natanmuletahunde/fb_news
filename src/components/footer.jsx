@@ -82,7 +82,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-8 border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
-        &copy; 2024 News Website. All rights reserved.
+        &copy; 2024 News Website. All rights reserved. be confidale and respectful.
       </div>
     </footer>
   );
